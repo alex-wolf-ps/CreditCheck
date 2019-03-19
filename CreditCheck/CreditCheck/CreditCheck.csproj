@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Provides a credit rating based on the personal information available.</Description>
+    <PackageId>CreditCheckTest</PackageId>
+  </PropertyGroup>
+
+</Project>
